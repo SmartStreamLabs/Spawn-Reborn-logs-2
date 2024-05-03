@@ -1,0 +1,12 @@
+BACK UP YOUR WORLD BEFORE DOWNLOADING!
+
+1 = Fixed a bug with the Bison spawn egg.
+2 = Fixed a crash while riding on a bison.
+3 = Fixed a world generation for arctic jewel ore.
+4 = Nurfed the dropping of the armored piglin.
+5 = Added a new item: Netherite ingot scrap.
+6 = Added new achievements.
+7 = Added new effects to the enchanted enderium apple.
+8 = Herobrine zombie drops now netherite ingot scrap.
+9 = Herobrine drops now a worldbreaker ingot.
+10 = Added a new effect to the world breaker pickaxe.
