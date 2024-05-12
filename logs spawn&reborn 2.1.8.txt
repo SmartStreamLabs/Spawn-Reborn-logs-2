@@ -1,0 +1,57 @@
+NOTE: BACK UP BEFORE DOWNLOADING!
+
+--------------------------------------
+
+Information update:
+
+1 = Updated the bio of the mod.
+2 = Updated the version to: 2.1.8
+
+--------------------------------------
+
+Fixes information:
+
+Fixed a bug with the dropping of the armored piglin ( Crossbow drop )
+Fixed a texure issue with the ( winter zombie )
+Fixed a bug with the hardness of thunderstone_deepslate_ore.
+Fixed a bugged texure with the warden creeper.
+Fixed a bobbing bug with the breaker helmed.
+
+Changes Information:
+
+Nurfed the moving speed of: the armored piglin.
+Moved the world breaker pickaxe and some items to a new creative tab.
+Nurfed the moving speed of: winter zombie.
+Added new achievements to the mod.
+Added a new tool: ( World sword ) OP!
+Added a new tool: ( World axe ) OP!
+Added a new creative tab, ( Spawn & Reborn: Addon )
+The demon silverfish now drops ( netherwart )
+Every spawn&reborn ore drops now XP when he is destroyed.
+Changed the hardness of: thunderstone_block.
+Changed the hardness of: warden_ore.
+Changed the break sound of: Artic_Jewel_Ore.
+Changed the hardness of: Shadow_quartz_ore.
+Changed the hardness of: Wither_Ore.
+Added new spawn locations for: Soulcreeper | Silvanna | Beach | Forest | 
+Armored piglin shoots no longer the hit_ball.
+The ocean hust no longer shoots spears.
+Added new spawn location for the herobrine_zombie.| Savanna |
+Updated the texure of the ( Netherite ingot scrap )
+Updated the color / rarity of ( Breaker dust )
+Changed the recept of the enchanted enderanium apple, when creating it gives you 15 apples. was 5.
+Changed the creative tab colors.
+Changed the health of the diamond creeper.( 20 )
+Added a new mob: Ghost creeper.
+Added: obsidian pickaxe, axe, shofel, hoe, sword.
+Changed the durability of the breaker set. ( 90 )
+Changed the dropping of the: desert scorpion.
+Bison is no longer Driveable.
+Warm pig is no longer Driveable.
+Taige cow is no longer Driveable.
+Added a new item: enchanted diamond apple.
+
+
+
+
+
